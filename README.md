@@ -1,11 +1,3 @@
-# BÀI TẬP THỰC HÀNH 5 (CAPSTONE): WEBFLUX + CIRCUIT BREAKER + MICROMETER METRICS
-
-> **Cấp độ:** Nâng cao / Chuyên sâu (Capstone Project)  
-> **Chủ đề:** Reactive Microservice Resilience với Spring WebFlux, Resilience4j CircuitBreakerOperator và Micrometer Actuator Metrics  
-> **Thư mục dự án:** `C:\Rikkei\microservice\ss13\b5`  
-> **GitHub Repository:** [https://github.com/dinhthanh143/microservice_ss13_b5](https://github.com/dinhthanh143/microservice_ss13_b5)
-
----
 
 ## 1. Bối Cảnh & Vấn Đề Kiến Trúc
 
